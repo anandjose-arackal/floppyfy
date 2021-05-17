@@ -1,4 +1,4 @@
-# floppify
+# floppify - Shoppify with flutter
 
 A new Flutter project to learn the flutter platform
 
